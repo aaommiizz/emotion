@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "cloud-firebase-web",
+    "staging": "cloud-firebase-web"
+  }
+}
